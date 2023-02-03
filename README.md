@@ -1,6 +1,6 @@
-# <pre> Lab-1_202001452 </pre>
+# <pre>                         Lab-1_202001452 </pre>
 
-### Name: Patel Krish
+### Name: Patel Krish Dipakkumar
 ### Student ID: 202001452
 ### Date: 03/02/2023
 
